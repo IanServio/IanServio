@@ -1,19 +1,67 @@
-### Ola! eu sou o Ian 🤙
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iansvr/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ian-servio-193376259/)
+<h1 align="center">Olá, me chamo Ian Servio! 👋</h1>
 
-![Ian GitHub stats](https://github-readme-stats.vercel.app/api?username=IanServio&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://img.shields.io/badge/Estudante-ADS-blue" alt="Estudante de ADS" />
+  <img src="https://img.shields.io/badge/Focus-Frontend%20%26%20Mobile-yellow" alt="Focus: Frontend & Mobile" />
+</p>
 
-## Tecnologias que uso diariamente 
+---
 
-<div style="display: inline_block"> <br/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-</div><br/>
+## 🚀 Sobre mim
 
-Apaixonado por tecnologia e por Games!
+🎓 Atualmente estou cursando **Análise e Desenvolvimento de Sistemas (ADS)**.  
+📚 Meus focos de estudo são **FrontEnd** com **JavaScript** e o desenvolvimento **Mobile** com **Dart e Flutter**.  
+🌱 Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.
 
+---
 
+## 🛠️ Habilidades
 
+### Linguagens e Tecnologias
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/SQL-%234169E1.svg?style=for-the-badge&logo=database&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+---
+
+## 💻 Ferramentas de Trabalho
+<p align="left">
+  <img src="https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+</p>
+
+---
+
+## 📚 Estudando Atualmente
+<p align="left">
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+</p>
+
+---
+
+## 📫 Contato
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ianservio/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ianservio@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/IanServio" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+✨ **Obrigado por visitar meu perfil!** Se você gostou, não se esqueça de deixar uma estrela ⭐ nos meus repositórios!

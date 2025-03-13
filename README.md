@@ -10,7 +10,7 @@
 ## 🚀 Sobre mim
 
 🎓 Atualmente estou cursando **Análise e Desenvolvimento de Sistemas (ADS)**.  
-📚 Meus focos de estudo são **FrontEnd** com **JavaScript** e o desenvolvimento **Mobile** com **Dart e Flutter**.  
+📚 Meus focos de estudo são **FrontEnd** com **JavaScript**, **React JS** e **BackEnd** com **Node JS**  
 🌱 Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.
 
 ---

@@ -18,15 +18,12 @@
 ## 🛠️ Habilidades
 
 ### Linguagens e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,git)](https://skillicons.dev)
 
 ---
 
 ## 💻 Ferramentas de Trabalho
-<p align="left">
-  <img src="https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
-</p>
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 
 ---
 

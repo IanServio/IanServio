@@ -39,13 +39,6 @@
 
 ---
 
-## 📚 Estudando Atualmente
-<p align="left">
-  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-</p>
-
----
 
 ## 📫 Contato
 

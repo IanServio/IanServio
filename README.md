@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Estudante-ADS-blue" alt="Estudante de ADS" />
-  <img src="https://img.shields.io/badge/Focus-Frontend%20%26%20Mobile-yellow" alt="Focus: Frontend & Mobile" />
+  <img src="https://img.shields.io/badge/Focus-Frontend%20%26%20Mobile-yellow" alt="Focus: Frontend & Backend" />
 </p>
 
 ---

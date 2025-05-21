@@ -10,7 +10,7 @@
 ## 🚀 Sobre mim
 
 🎓 Atualmente estou cursando **Análise e Desenvolvimento de Sistemas (ADS)**.  
-📚 Meus focos de estudo são **FrontEnd** com **React JS** e **BackEnd** com **Node JS**  
+📚 Meus focos de estudo são **FrontEnd** com **React JS**
 🌱 Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.
 
 ---
@@ -18,7 +18,7 @@
 ## 🛠️ Habilidades
 
 ### Linguagens e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,git)](https://skillicons.dev)
 
 ---
 

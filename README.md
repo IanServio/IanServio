@@ -23,7 +23,7 @@
 ---
 
 ## 💻 Ferramentas de Trabalho
-[![My Skills](https://skillicons.dev/icons?i=vscode,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,windows,teams)](https://skillicons.dev)
 
 ---
 

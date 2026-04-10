@@ -11,6 +11,7 @@
 
 🎓 Formado em **Análise e Desenvolvimento de Sistemas (ADS)**.  
 📚 Meus focos de estudo são **FrontEnd** com **React JS** e **BackEnd** com **NodeJS**.
+
 🌱 Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.
 
 ---

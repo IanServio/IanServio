@@ -1,7 +1,7 @@
 <h1 align="center">Olá, me chamo Ian Servio! 👋</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Estudante-ADS-blue" alt="Estudante de ADS" />
+  <img src="https://img.shields.io/badge/Formado-ADS-blue" alt="Estudante de ADS" />
   <img src="https://img.shields.io/badge/Focus-Frontend%20%20-yellow" alt="Focus: Frontend & Backend" />
 </p>
 

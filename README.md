@@ -18,7 +18,7 @@
 ## 🛠️ Habilidades
 
 ### Linguagens e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,git,nodejs,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,git,nodejs,express,postgres)](https://skillicons.dev)
 
 ---
 
